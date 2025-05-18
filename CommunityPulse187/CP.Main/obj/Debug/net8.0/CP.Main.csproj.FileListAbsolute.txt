@@ -40,3 +40,4 @@ C:\Users\Pc\Desktop\Odoo\src\Repo\odooxParadoxR1\CommunityPulse187\CP.Main\obj\D
 C:\Users\Pc\Desktop\Odoo\src\Repo\odooxParadoxR1\CommunityPulse187\CP.Main\obj\Debug\net8.0\CP.Main.pdb
 C:\Users\Pc\Desktop\Odoo\src\Repo\odooxParadoxR1\CommunityPulse187\CP.Main\obj\Debug\net8.0\CP.Main.genruntimeconfig.cache
 C:\Users\Pc\Desktop\Odoo\src\Repo\odooxParadoxR1\CommunityPulse187\CP.Main\obj\Debug\net8.0\ref\CP.Main.dll
+C:\Users\Pc\Desktop\Odoo\src\Repo\odooxParadoxR1\CommunityPulse187\CP.Main\obj\Debug\net8.0\CP.Main.sourcelink.json

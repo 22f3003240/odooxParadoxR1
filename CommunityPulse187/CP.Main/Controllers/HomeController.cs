@@ -62,6 +62,6 @@ public class HomeController : Controller
 
     public IActionResult Login()
     {
-        return View("Login");
+        return RedirectToAction("Index", "UserDashboard");
     }
 }
